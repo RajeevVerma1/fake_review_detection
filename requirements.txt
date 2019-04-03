@@ -1,0 +1,8 @@
+Flask
+request
+jsonify
+keras
+tensorflow
+pandas
+numpy
+newspaper3k
